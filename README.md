@@ -1,4 +1,4 @@
-# The-C-Programming-Langange
+# The-C-Programming-Language
 Brian W. Kernighan &amp; Dennis M. Ritchie 
 
 ### Chapter 1
