@@ -1,3 +1,5 @@
+//Counting lines
+
 #include <stdio.h>
 
 int main()
