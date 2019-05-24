@@ -1,3 +1,7 @@
+//https://stackoverflow.com/questions/35789676/counting-characters-via-c-book
+
+
+
 #include<stdio.h>
 
 int main()
