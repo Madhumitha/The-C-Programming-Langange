@@ -1,7 +1,3 @@
-//https://stackoverflow.com/questions/3305735/kr-exercise-1-9-c?rq=1
-
-//Credit to above post
-
 #include <stdio.h>
 int main()
 {
