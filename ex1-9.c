@@ -1,3 +1,7 @@
+//https://stackoverflow.com/questions/3305735/kr-exercise-1-9-c?rq=1
+
+//Credits to above authors in above link
+
 #include <stdio.h>
 int main()
 {
