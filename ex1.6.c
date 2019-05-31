@@ -3,7 +3,7 @@
 /* count digits, white space, others */
 int main()
 {
-	int c, i, nwhite, nother;
+	int c, i, nwhite = 0, nother = 0;
 	int ndigit[10];
 	for(i=0; i < 10; i++)
 		ndigit[i]=0;
